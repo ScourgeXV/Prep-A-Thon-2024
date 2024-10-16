@@ -16,6 +16,6 @@ pip install qiskit-aer
 
 Example inputs are given for our program.
 
-These inputs are then read by the input script.
+These inputs are then read by the input script. For simplicity we have not integrated input script with solvers.
 
-Then these inputs are given to the two solvers to get our optimization results.
+Then these inputs are given to the two solvers to get our optimization results. In these solvers we have already taken simple inputs so there is no need for a input script.
